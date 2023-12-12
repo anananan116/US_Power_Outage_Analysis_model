@@ -1,8 +1,8 @@
-# EDA
+# Predicting the duration of power outages
+
+## EDA
 
 The EDA of this dataset can be found [here](https://anananan116.github.io/US_Power_Outage_Analysis/)
-
-# Fitting a Model
 
 ## Prediction Problem
 
